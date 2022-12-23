@@ -21,7 +21,13 @@ Another interesting feature is that the brightness of the screen would automatic
 
 ## Demo
 
+Brightness Control
+
 https://github.com/ApolloW1/ESE519_Project/blob/main/media/demos/IMG_0537.gif
+
+WiFi Initialization
+
+https://github.com/ApolloW1/ESE519_Project/blob/main/media/demos/WiFi.gif
 
 ## Diagram
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/114015725/209372855-7c0fa8dc-8ebf-4236-869c-a21c33068fa6.png">
